@@ -11,4 +11,3 @@
 
  Artificial general intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It is a type of [artificial intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence) (AI) that aims to mimic the cognitive abilities of the human brain.
  
-[[Index Page]]

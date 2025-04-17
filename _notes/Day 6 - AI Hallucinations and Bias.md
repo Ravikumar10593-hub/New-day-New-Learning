@@ -11,4 +11,3 @@
 
  AI hallucinations are similar to how humans sometimes see figures in the clouds or faces on the moon. In the case of AI, these misinterpretations occur due to various factors, including [overfitting](https://www.ibm.com/topics/overfitting), training data bias/inaccuracy and high model complexity. 
  
-[[Index Page]]
