@@ -6,11 +6,6 @@ Check out our live web application for this program - [https://newdaynewlearning
 
 - Click on the link : [https://www.nytimes.com/games/wordle/index.html](https://www.nytimes.com/games/wordle/index.html)
 - You will get a 6 chance to guess the 5-letter word correctly
-- Post you answer here or in the team chat (any place you are comfortable)
-
-You can find all the backlog here:-
-
-[One Microsoft | Learning | Microsoft Teams](https://teams.microsoft.com/l/channel/19%3A064ef025331149d6bbf9730f7804d9f6%40thread.skype/Learning?groupId=38804e11-9e0d-4112-aefe-4c59dc91f3d0&tenantId=56794af1-29b1-4e4b-a447-15e6df4f649b)
 
 **More about me:**
 
