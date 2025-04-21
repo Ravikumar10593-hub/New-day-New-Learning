@@ -6,3 +6,4 @@
 -  [[Day 6 - AI Hallucinations and Bias]]
 -  [[Day 7 - Retrieval-Augmented Generation (RAG)]]
 - [[Day 8 - AI Context window]]
+- [[Day 9 - A2A Protocol]]
