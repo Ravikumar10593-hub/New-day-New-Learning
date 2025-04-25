@@ -10,3 +10,6 @@
 -  [[Day 10 - LangChain]]
 -  [[Day 11 - LangGraph]]
 -  [[Day 12 - LangFlow]]
+-  [[Day 13 - Semantic Search]]
+-  [[Day 14 - Ollama]]
+
