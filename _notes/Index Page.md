@@ -12,4 +12,5 @@
 -  [[Day 12 - LangFlow]]
 -  [[Day 13 - Semantic Search]]
 -  [[Day 14 - Ollama]]
+-  [[Day 15 - Apache Superset]]
 
