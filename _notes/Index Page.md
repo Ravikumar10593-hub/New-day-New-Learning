@@ -13,4 +13,5 @@
 -  [[Day 13 - Semantic Search]]
 -  [[Day 14 - Ollama]]
 -  [[Day 15 - Apache Superset]]
+-  [[Day 16 - Apache Parquet]]
 
