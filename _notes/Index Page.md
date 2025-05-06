@@ -14,4 +14,5 @@
 -  [[Day 14 - Ollama]]
 -  [[Day 15 - Apache Superset]]
 -  [[Day 16 - Apache Parquet]]
+-  [[Day 17 - Delta Lake]]
 
