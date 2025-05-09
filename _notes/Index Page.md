@@ -17,4 +17,5 @@
 -  [[Day 17 - Delta Lake]]
 -  [[Day 18 - Apache Airflow]]
 -  [[Day 19 - Lambda Architecture]]
+-  [[Day 20 - Why do we need Docker!]]
 
