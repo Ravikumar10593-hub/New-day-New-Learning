@@ -21,4 +21,5 @@
 -  [[Day 21 - RAG (Retrieval-Augmented Generation) Vs CAG (Cache-Augmented Generation)]]
 -  [[Day 22 - Hugging Face]]
 -  [[Day 23 - Knowledge Graph]]
+-  [[Day 24 - Spark Architecture]]
 
