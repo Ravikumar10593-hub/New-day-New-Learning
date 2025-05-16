@@ -22,4 +22,5 @@
 -  [[Day 22 - Hugging Face]]
 -  [[Day 23 - Knowledge Graph]]
 -  [[Day 24 - Spark Architecture]]
+-  [[Day 25 - Discrete Event Simulation]]
 
