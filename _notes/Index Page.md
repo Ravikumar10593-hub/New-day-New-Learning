@@ -24,4 +24,6 @@
 -  [[Day 24 - Spark Architecture]]
 -  [[Day 25 - Discrete Event Simulation]]
 -  [[Day 26 - LLM Fine Tuning]]
+-  [[Day 27 - KQL (Kusto Query Language) and SQL (Structured Query Language)]]
+-  [[Day 28 - Keras vs Tensorflow vs Pytorch]]
 
