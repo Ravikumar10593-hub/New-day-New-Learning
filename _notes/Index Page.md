@@ -26,4 +26,5 @@
 -  [[Day 26 - LLM Fine Tuning]]
 -  [[Day 27 - KQL (Kusto Query Language) and SQL (Structured Query Language)]]
 -  [[Day 28 - Keras vs Tensorflow vs Pytorch]]
+-  [[Day 29 - Neural Network Heuristic Nature]]
 
