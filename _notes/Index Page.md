@@ -25,9 +25,8 @@
 -  [[Day 25 - Discrete Event Simulation]]
 -  [[Day 26 - LLM Fine Tuning]]
 -  [[Day 27 - KQL (Kusto Query Language) and SQL (Structured Query Language)]]
-<<<<<<< HEAD
 -  [[Day 28 - Keras vs Tensorflow vs Pytorch]]
 -  [[Day 29 - Neural Network Heuristic Nature]]
-=======
->>>>>>> 8d3079b1a75ae904b59da57953ed264b334a9556
+-  [[Day 30 - Topic Modeling]]
+
 
