@@ -28,5 +28,6 @@
 -  [[Day 28 - Keras vs Tensorflow vs Pytorch]]
 -  [[Day 29 - Neural Network Heuristic Nature]]
 -  [[Day 30 - Topic Modeling]]
+-  [[Day 31 - Sarvam AI (Indic AI model)]]
 
 
