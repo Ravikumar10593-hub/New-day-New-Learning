@@ -31,5 +31,6 @@
 -  [[Day 31 - Sarvam AI (Indic AI model)]]
 -  [[Day 32 - Two Tower Model Architecture (Recommendation engine)]]
 -  [[Day 33 - Snowflakes]]
+-  [[Day 34 - Encoder only transformers (BERT) & Decoder only transformers (ChatGPT)]]
 
 
