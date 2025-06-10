@@ -32,5 +32,6 @@
 -  [[Day 32 - Two Tower Model Architecture (Recommendation engine)]]
 -  [[Day 33 - Snowflakes]]
 -  [[Day 34 - Encoder only transformers (BERT) & Decoder only transformers (ChatGPT)]]
+-  [[Day 35 - Cosine Similarity]]
 
 
