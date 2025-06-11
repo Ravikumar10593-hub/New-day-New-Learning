@@ -25,7 +25,6 @@ I am just a Colleague of your’ s, Learning and exploring how Math, Business, a
 - [Apache Spark Architecture – Detailed Explanation](https://www.interviewbit.com/blog/apache-spark-architecture/)
 
 **TL;DR** :
-
 **Components:**
 
 - **SparkContext:**
