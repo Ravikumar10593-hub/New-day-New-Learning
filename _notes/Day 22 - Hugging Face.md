@@ -17,7 +17,7 @@ I am just a Colleague of your’ s, Learning and exploring how Math, Business, a
 
 **Topic** : Hugging face 
 
-![[Pasted image 20250611162735.png]]
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/033165ef-fb24-40fd-9347-d1313161a50c/Frame_118.png)
 
 **Article Source** :
 
@@ -29,5 +29,5 @@ Hugging Face is a platform where users can **upload, find and download pre-trai
 
 For many of these models, Hugging Face also provides a service called Inference API that allows you to use them via simple API calls. This service is free for prototyping and experimentation but is subject to rate limiting. There are also paid inference services for production workloads.
 
-![[Pasted image 20250611162930.png]]
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff90f99d7-d3ac-48ac-a03a-87e28efc5fac_1280x681.jpeg)
 
