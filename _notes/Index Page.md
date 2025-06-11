@@ -33,5 +33,6 @@
 -  [[Day 33 - Snowflakes]]
 -  [[Day 34 - Encoder only transformers (BERT) & Decoder only transformers (ChatGPT)]]
 -  [[Day 35 - Cosine Similarity]]
+-  [[Day 36 - Databricks Unity Catalog]]
 
 
