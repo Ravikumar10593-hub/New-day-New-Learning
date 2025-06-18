@@ -36,5 +36,6 @@
 -  [[Day 36 - Databricks Unity Catalog]]
 -  [[Day 37 - Mixed Integer Linear Programming (MIP)]]
 -  [[Day 38 - Unobserved Components Model (UCM)]]
+-  [[Day 39 - Generalized Additive Model (GAM)]]
 
 
